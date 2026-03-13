@@ -38,7 +38,7 @@ auth-demo/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone <votre-repo-url>
+   git clone <https://github.com/sheedrdh/Authentification-utilisateur-node.js>
    cd Authentification-utilisateur-node.js
    ```
 
